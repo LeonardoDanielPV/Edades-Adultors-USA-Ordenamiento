@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<C:\Programas\ESCOM_NS_LCD_S1_FP_(C)\Ejercicios\Manejo de matrices\mystringint.h>
+#include "MyString.h"
 
 int long_num_i(int);
 int long_num_mayor_i(int [], int);
