@@ -1,4 +1,4 @@
-// Funciones a utilizar Prueba
+// Funciones a utilizar
 
 /*
     Biblioteca con funciones de entrada y salida de datos estandar 
