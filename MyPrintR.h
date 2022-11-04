@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "MyString.h"
 
 int long_num_i(int);
