@@ -51,7 +51,7 @@
     void ordenamiento_seleccion_int(int *, int); Ordena un arreglo con el ordenamiento por seleccion.
     void ordenamiento_insercion_int(int *, int); Ordena un arreglo con el ordenamiento por insercion.
 */
-#include "C:\Programas\ESCOM_NS_ISC_S2_AED_(C)\Practicas\Algoritmos_Ordenamiento.h"
+#include "AlgoritmosOrdenamiento.h"
 
 /*
     Mi biblioteca con funciones para manejar archivos, que contiene la unica funcion
@@ -60,7 +60,7 @@
                                     de archivo.
                                     Devuelve la cantidad de numeros leidos.
 */
-#include "C:\Programas\ESCOM_NS_ISC_S2_AED_(C)\Herramientas\archivos_funciones.h"
+#include "ArchivosFunciones.h"
 
 
 // Funcion principal
