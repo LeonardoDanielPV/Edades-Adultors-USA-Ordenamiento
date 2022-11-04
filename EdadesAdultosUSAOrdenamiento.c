@@ -43,7 +43,7 @@
     Mi biblioteca con funcion para imprimir arreglos
     void print_i(int *, int);    Imprime un arreglo de enteros como lo hace el lenguaje R.
 */
-#include "C:\Programas\ESCOM_NS_LCD_S1_FP_(C)\myprintR.h"
+#include "MyPrintR.h"
 
 /*
     Mi biblioteca con las funciones de ordenamiento echas en clase:
